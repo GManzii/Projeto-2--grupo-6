@@ -7,6 +7,7 @@ Análise de Competidores
 | **DCycle** | [LINK](https://dcycle.io/) |
 | **Leanpath** | [LINK](https://www.leanpath.com/) |
 |**Arca Sustentabilidade** | [LINK](https://www.arcasustentabilidade.com.br/servicos)
+|**GrupoGep** | [LINK](https://gepgrupo.com.br/atuacoes/programa-de-boas-praticas-esg/)
 
 
 **FoodChain** - “Ajudamos empresas globais de alimentos e bebidas a tornar a cadeia de suprimentos de alimentos segura e transparente.”
