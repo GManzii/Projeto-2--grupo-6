@@ -21,7 +21,7 @@ Análise de Competidores
 **Eliminar o trabalho duplicado**: O foco principal da plataforma é permitir que a empresa insira um dado operacional (como faturas de energia ou recibos) uma única vez e o utilize para preencher automaticamente múltiplos relatórios.
 **Ações práticas de descarbonização**: Sugerir planos de redução de impacto (como troca de fornecedores ou rotas) avaliando o viés de esforço versus custo e retorno (ROI).
 
-Leanpath - “plataforma de tecnologia que usa inteligência artificial e balanças inteligentes para ajudar cozinhas comerciais a medir, monitorar e prevenir o desperdício de alimentos”
+**Leanpath** - “plataforma de tecnologia que usa inteligência artificial e balanças inteligentes para ajudar cozinhas comerciais a medir, monitorar e prevenir o desperdício de alimentos”
 
 **Inteligência Artificial e Software**: Ao pesar o descarte, a plataforma identifica o tipo de alimento, calcula o custo econômico e o impacto ambiental daquela perda.
 **Mudança dos habitos de descarte**: Engaja a equipe de cozinha a ajustar o planejamento de estoque e preparo de pratos.
