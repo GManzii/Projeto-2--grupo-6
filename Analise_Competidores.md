@@ -24,3 +24,6 @@ Leanpath - “plataforma de tecnologia que usa inteligência artificial e balan�
 
 Inteligência Artificial e Software: Ao pesar o descarte, a plataforma identifica o tipo de alimento, calcula o custo econômico e o impacto ambiental daquela perda.
 Mudança dos habitos de descarte: Engaja a equipe de cozinha a ajustar o planejamento de estoque e preparo de pratos.
+
+Arca Sustentabilidade - “Com o Sistema ARCA ESG, sua empresa organiza dados, acompanha indicadores e comunica resultados com inteligência, transformando dados em valor real”
+
