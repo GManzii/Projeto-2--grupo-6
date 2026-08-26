@@ -6,6 +6,7 @@ Análise de Competidores
 | **FoodChain** | [LINK](https://www.foodchainid.com/br/resources/esg-na-mesa-como-a-foodchain-id-ajuda-o-setor-de-alimentos-a-servir-sustentabilidade/#) |
 | **DCycle** | [LINK](https://dcycle.io/) |
 | **Leanpath** | [LINK](https://www.leanpath.com/) |
+|**Arca Sustentabilidade** | [LINK](https://www.arcasustentabilidade.com.br/servicos)]
 
 
 FoodChain - “Ajudamos empresas globais de alimentos e bebidas a tornar a cadeia de suprimentos de alimentos segura e transparente.”
