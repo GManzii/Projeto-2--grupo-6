@@ -26,17 +26,17 @@ Leanpath - “plataforma de tecnologia que usa inteligência artificial e balan�
 Inteligência Artificial e Software: Ao pesar o descarte, a plataforma identifica o tipo de alimento, calcula o custo econômico e o impacto ambiental daquela perda.
 Mudança dos habitos de descarte: Engaja a equipe de cozinha a ajustar o planejamento de estoque e preparo de pratos.
 
-Arca Sustentabilidade - “Com o Sistema ARCA ESG, sua empresa organiza dados, acompanha indicadores e comunica resultados com inteligência, transformando dados em valor real”
+**Arca Sustentabilidade - “Com o Sistema ARCA ESG, sua empresa organiza dados, acompanha indicadores e comunica resultados com inteligência, transformando dados em valor real”
 
-Módulo ARCA GEE: Permite acompanhar mensalmente as emissões de GEE da empresa de forma integrada e estratégica, fornecendo relatórios que facilitam a prestação de contas e a tomada de decisão.
-Sistema para gestão de indicadores ESG: Plataforma desenvolvida para organizar dados e apoiar na construção de reports corporativos, facilitando a elaboração do inventário de emissões de gases de efeito estufa (GHG Protocol e GPC), CDP, entre outros.
+**Módulo ARCA GEE**: Permite acompanhar mensalmente as emissões de GEE da empresa de forma integrada e estratégica, fornecendo relatórios que facilitam a prestação de contas e a tomada de decisão.
+**Sistema para gestão de indicadores ESG**: Plataforma desenvolvida para organizar dados e apoiar na construção de reports corporativos, facilitando a elaboração do inventário de emissões de gases de efeito estufa (GHG Protocol e GPC), CDP, entre outros.
 
 GrupoGep - "voltado para empresas que precisam implementar, na prática, as exigências e controles regulatórios de determinados normativos ESG."
 
-Implementação de boas práticas ESG: Estruturação e adequação dos processos da organização aos padrões ambientais, sociais e de governança.
-Estruturação de Conselhos e Comitês de ESG: Formação e organização de grupos estratégicos e de governança interna para direcionar as decisões da empresa.
-Selos e Certificações de boas práticas ESG: Suporte técnico para a implementação e obtenção de selos e certificações sustentáveis.
-Elaboração de Matriz de Materialidade ESG: Mapeamento e priorização dos temas socioambientais de maior impacto para o negócio e seus stakeholders.
-Confecção de Relatórios de Sustentabilidade: Estruturação e elaboração dos relatórios corporativos oficiais para prestação de contas de impacto ESG.
+**Implementação de boas práticas ESG**: Estruturação e adequação dos processos da organização aos padrões ambientais, sociais e de governança.
+**Estruturação de Conselhos e Comitês de ESG**: Formação e organização de grupos estratégicos e de governança interna para direcionar as decisões da empresa.
+**Selos e Certificações de boas práticas ESG**: Suporte técnico para a implementação e obtenção de selos e certificações sustentáveis.
+**Elaboração de Matriz de Materialidade ESG**: Mapeamento e priorização dos temas socioambientais de maior impacto para o negócio e seus stakeholders.
+**Confecção de Relatórios de Sustentabilidade**: Estruturação e elaboração dos relatórios corporativos oficiais para prestação de contas de impacto ESG.
 
 
