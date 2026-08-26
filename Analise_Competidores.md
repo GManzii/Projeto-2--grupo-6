@@ -27,3 +27,6 @@ Mudança dos habitos de descarte: Engaja a equipe de cozinha a ajustar o planeja
 
 Arca Sustentabilidade - “Com o Sistema ARCA ESG, sua empresa organiza dados, acompanha indicadores e comunica resultados com inteligência, transformando dados em valor real”
 
+Módulo ARCA GEE: Permite acompanhar mensalmente as emissões de GEE da empresa de forma integrada e estratégica, fornecendo relatórios que facilitam a prestação de contas e a tomada de decisão.
+Sistema para gestão de indicadores ESG: Plataforma desenvolvida para organizar dados e apoiar na construção de reports corporativos, facilitando a elaboração do inventário de emissões de gases de efeito estufa (GHG Protocol e GPC), CDP, entre outros.
+
