@@ -8,6 +8,7 @@
 
 
 ### Entrega 1:
+[Analise_competidores](https://github.com/GManzii/Projeto-2--grupo-6/blob/main/Analise_Competidores.md)
 ### Entrega 2:
 ### Entrega 3:
 ### Entrega 4:
