@@ -1,5 +1,5 @@
 # Projeto-2--grupo-6
-## Nome do projeto: Pedro
+## Nome do projeto: PEDRO
 
 ### Descrição do projeto:
  
