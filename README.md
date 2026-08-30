@@ -2,9 +2,11 @@
 ## Nome do projeto: PEDRO
 
 ### Descrição do projeto:
- 
+#### Site e aplicativo voltado para a aplicação de práticas ESG em pequenas e médias empresas
 
 ### Tecnologias utilizadas:
+
+#### jira
 
 
 ### Entrega 1:
