@@ -80,3 +80,20 @@
  
 ---
 
+## Benchmark (Tabela Comparativa)
+ 
+| Empresa | Foco principal | Público-alvo | Mercado | Modelo de preço | Usa tecnologia/IA própria | Foco em PMEs | Automatiza coleta de dados | Gera relatórios/certificações |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| FoodChain | Certificação e auditoria (alimentos) | Grandes empresas do setor alimentício | Internacional | Não divulgado (sob consulta) | Não (consultoria) | Não | Não | Sim |
+| DCycle | Automação de dados ambientais | Empresas com dados operacionais estruturados | Nacional | Não divulgado (sob consulta) | Sim (plataforma) | Parcial | Sim | Sim |
+| Leanpath | Desperdício de alimentos | Cozinhas comerciais | Internacional | Não divulgado (sob consulta) | Sim (IA + hardware) | Não | Sim (via hardware) | Não |
+| Arca Sustentabilidade | Indicadores ESG e emissões de GEE | Médias/grandes empresas | Nacional | Não divulgado (sob consulta) | Sim (plataforma) | Parcial | Parcial | Sim |
+| GrupoGep | Consultoria estratégica ESG | Empresas de médio/grande porte | Nacional | Não divulgado (sob consulta) | Não (consultoria) | Não | Não | Sim |
+ 
+**Lacuna identificada:** nenhum dos competidores oferece uma solução acessível, simples e de baixo custo pensada especificamente para pequenas e médias empresas sem equipe ou orçamento dedicado a ESG. O preço de todos é opaco (sob consulta/proposta comercial), o que por si só já afasta a PME — reforçando que transparência e simplicidade de custo são parte da oportunidade do PEDRO.
+ 
+---
+
+## Conclusão
+ 
+O mercado de ESG hoje atende bem empresas grandes, seja por consultoria completa (FoodChain, GrupoGep) ou por plataformas que pressupõem dados e processos já estruturados (DCycle, Arca). Nenhum concorrente oferece uma solução pensada para o dia a dia de uma pequena ou média empresa: simples, com preço transparente e sem exigir uma equipe dedicada. 
