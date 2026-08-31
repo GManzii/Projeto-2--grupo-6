@@ -6,7 +6,7 @@
 
 ### Tecnologias utilizadas:
 
-#### jira
+#### jira, django, git
 
 
 ### Entrega 1:
