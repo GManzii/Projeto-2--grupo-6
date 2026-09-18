@@ -14,6 +14,10 @@
 
 ![Print do sprint](1.png)
 ### Entrega 2:
+
+#### Deployment
+[https://pedroesg.pythonanywhere.com](https://pedroesg.pythonanywhere.com)
+
 #### Print bug tracker
 ![Print do bug tracker](print_bug_tracker.jpeg)
 ### Entrega 3:
