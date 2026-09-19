@@ -1,5 +1,6 @@
 from django.db import models
 
+<<<<<<< HEAD
 class MensagemContato(models.Model):
     TIPO_CHOICES = [
         ('bug', 'Bug / Erro'),
