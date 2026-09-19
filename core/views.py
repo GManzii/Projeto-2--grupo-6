@@ -18,4 +18,4 @@ def contact(request):
     else:
         form = ContatoForm()
 
-    return render(request, 'core/contact.html', {'form': form}) 
+    return render(request, 'core/faleconosco.html', {'form': form}) 

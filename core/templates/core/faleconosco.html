@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Fale Conosco</title>
+</head>
+
+<body>
+
+    <div style="max-width: 600px; margin: 20px auto; font-family: sans-serif;">
+    <h2>Fale Conosco</h2>
+    <p>Utilize o formulário abaixo para enviar dúvidas, sugestões ou relatar erros.</p>
+
+    <!-- Exibição de mensagens de sucesso ou erro -->
+    {% if messages %}
+        {% for message in messages %}
+            <div style="padding: 10px; background-color: #d4edda; color: #155724; border-radius: 4px; margin-bottom: 15px;">
+                {{ message }}
+            </div>
+        {% endfor %}
+    {% endif %}
+
+    <!-- Formulário do Django -->
+        <form method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit" style="padding: 10px 20px; background-color: #0d6efd; color: white; border: none; border-radius: 4px; cursor: pointer;">
+                Enviar Mensagem
+            </button>
+        </form>
+    </div>
+    <a href="/">Início</a>
+    <a href="/about/">Sobre</a>
+</body>
+</html>
