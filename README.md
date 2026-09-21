@@ -23,6 +23,9 @@
 
 #### Print bug tracker
 ![Print do bug tracker](print_bug_tracker.jpeg)
+
+#### Print do sprint
+![Print do sprint](image.png)
 ### Entrega 3:
 ### Entrega 4:
 
