@@ -18,6 +18,9 @@
 #### Deployment
 [https://pedroesg.pythonanywhere.com](https://pedroesg.pythonanywhere.com)
 
+#### Screencast explicação do código
+[https://youtu.be/nAHVaIYzRGQ](https://youtu.be/nAHVaIYzRGQ)
+
 #### Print bug tracker
 ![Print do bug tracker](print_bug_tracker.jpeg)
 ### Entrega 3:
