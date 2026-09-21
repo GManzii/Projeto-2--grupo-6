@@ -27,7 +27,7 @@ O PEDRO é um site e aplicativo que facilita a implementação de práticas ESG 
  
 2. Crie e ative um ambiente virtual:
 ```bash
-   python -m venv venv
+   py -m venv venv
  
    # Linux / macOS
    source venv/bin/activate
@@ -43,17 +43,17 @@ O PEDRO é um site e aplicativo que facilita a implementação de práticas ESG 
  
 4. Crie o banco de dados:
 ```bash
-   python manage.py migrate
+   py manage.py migrate
 ```
  
 5. Crie um usuário administrador (necessário para ver as mensagens enviadas pelo "Fale conosco"):
 ```bash
-   python manage.py createsuperuser
+   py manage.py createsuperuser
 ```
  
 6. Inicie o servidor:
 ```bash
-   python manage.py runserver
+   py manage.py runserver
 ```
  
 O site ficará disponível em <http://127.0.0.1:8000/>.
