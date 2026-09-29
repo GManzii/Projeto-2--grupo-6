@@ -76,7 +76,7 @@ O site ficará disponível em <http://127.0.0.1:8000/>.
 #### Screencasts
 
 - Explicação do código: [Assista no YouTube](https://youtu.be/nAHVaIYzRGQ)
-- Demonstração do deploy: [Assista no YouTube](https://youtu.be/BANJWZ1820A)
+- Demonstração do deploy: [Assista no YouTube](https://youtu.be/BANJWZl820A)
 
 **Bug tracker (Issues)**
  
