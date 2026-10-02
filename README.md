@@ -1,9 +1,9 @@
 **Disciplina de Projeto 2 · Grupo 6**
-# Nome do projeto: PEDRO
+# Nome do projeto: DARA
 
 ## Sobre o projeto
  
-O PEDRO é um site e aplicativo que facilita a implementação de práticas ESG (ambiental, social e de governança) em pequenas e médias empresas.
+O DARA é um site e aplicativo que facilita a implementação de práticas ESG (ambiental, social e de governança) em pequenas e médias empresas.
 
 ## Tecnologias utilizadas
  
