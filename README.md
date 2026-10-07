@@ -83,10 +83,10 @@ O site ficará disponível em <http://127.0.0.1:8000/>.
 As issues do projeto estão registradas na aba [Issues](https://github.com/GManzii/Projeto-2--grupo-6/issues) do repositório.
 
 #### Print bug tracker
-![Print do bug tracker](print_bug_tracker.jpeg)
+![Print do bug tracker](imagens/print_bug_tracker.jpeg)
 
 #### Print da sprint
-![Print do sprint](image.png)
+![Print do sprint](imagens/image.png)
 ### Entrega 3:
 _Em andamento._
 
